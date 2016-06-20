@@ -1,5 +1,5 @@
 # fragment_replace_addToBackStack
-
+博客： http://blog.csdn.net/michael1112/article/details/51691670
 概要： 程序包含一个Activity，三个Fragment和一个snake。点击fragment的button后显示下个一framgment。到第三个fragment点button出现snake。
 
 ##解释1
